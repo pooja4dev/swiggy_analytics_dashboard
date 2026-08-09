@@ -26,12 +26,6 @@ The project follows a SQL-to-Power BI workflow — data was queried and prepared
 - Data visualization & dashboard design
 - Power BI theming, layout, and formatting
 
- ## Dashboard Preview
-
-
-![Dashboard Screenshot](swiggy_analytics_dashboard.png)
-
-
-
+ 
 
 ![Dashboard Screenshot](swiggy_analytics_dashboard.png)
